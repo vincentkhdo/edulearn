@@ -1,6 +1,6 @@
 # EduLearn
 
-EduLearn is a smart educational learning site that uses GPT to generate questions and answer choices based on the subject and grade level. The site provides various features for students and teachers to manage and track assignments and progress.
+EduLearn is an AI educational learning site that generate questions and answer choices based on the subject and grade level as well as create personalized progress reports for each student based on their assignment performance. The site provides various features for students and teachers to manage and track assignments and progress.
 
 ## Features
 
